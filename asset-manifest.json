@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Hangman/static/css/main.0de29797.chunk.css",
+    "main.js": "/Hangman/static/js/main.3d160a2d.chunk.js",
+    "main.js.map": "/Hangman/static/js/main.3d160a2d.chunk.js.map",
+    "runtime-main.js": "/Hangman/static/js/runtime-main.3ae5c34d.js",
+    "runtime-main.js.map": "/Hangman/static/js/runtime-main.3ae5c34d.js.map",
+    "static/js/2.050e6558.chunk.js": "/Hangman/static/js/2.050e6558.chunk.js",
+    "static/js/2.050e6558.chunk.js.map": "/Hangman/static/js/2.050e6558.chunk.js.map",
+    "index.html": "/Hangman/index.html",
+    "precache-manifest.a06ceafc15d77470863dd26abb986b5b.js": "/Hangman/precache-manifest.a06ceafc15d77470863dd26abb986b5b.js",
+    "service-worker.js": "/Hangman/service-worker.js",
+    "static/css/main.0de29797.chunk.css.map": "/Hangman/static/css/main.0de29797.chunk.css.map",
+    "static/media/0.jpg": "/Hangman/static/media/0.db9097e8.jpg",
+    "static/media/1.jpg": "/Hangman/static/media/1.fbff4784.jpg",
+    "static/media/2.jpg": "/Hangman/static/media/2.c4ea9528.jpg",
+    "static/media/3.jpg": "/Hangman/static/media/3.62a781c8.jpg",
+    "static/media/4.jpg": "/Hangman/static/media/4.0f8ca81e.jpg",
+    "static/media/5.jpg": "/Hangman/static/media/5.1b557aa7.jpg",
+    "static/media/6.jpg": "/Hangman/static/media/6.c80394c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ae5c34d.js",
+    "static/js/2.050e6558.chunk.js",
+    "static/css/main.0de29797.chunk.css",
+    "static/js/main.3d160a2d.chunk.js"
+  ]
+}
